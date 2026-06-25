@@ -1,0 +1,14 @@
+{
+  devDependencies: {},
+  dependencies: {},
+  srcDir: "src",
+  license: "MIT",
+  author: "",
+  description: "",
+  version: "1.0.0",
+  scripts: {
+    run: "novac src/main.nova"
+  },
+  main: "src/main.nova",
+  name: "sem"
+}

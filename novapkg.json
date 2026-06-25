@@ -1,0 +1,9 @@
+{
+  "name": "example-pkg",
+  "version": "1.0.1",
+  "description": "Example novac package;",
+  "author": "purcwix",
+  "license": "MIT",
+  "main": "src/main.nv",
+  "dependencies": {}
+}
